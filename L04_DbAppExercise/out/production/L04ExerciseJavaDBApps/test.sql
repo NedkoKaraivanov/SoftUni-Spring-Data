@@ -1,0 +1,1 @@
+select * from towns group by country;
